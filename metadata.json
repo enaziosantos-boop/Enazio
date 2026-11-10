@@ -1,0 +1,6 @@
+{
+  "name": "TRV Digital - SEMUTRAN Paragominas",
+  "description": "Sistema de Gestão de Remoção Veicular (TRV Digital) com banco de dados relacional PostgreSQL e consultas complexas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
